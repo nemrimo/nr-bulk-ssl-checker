@@ -14,7 +14,8 @@ const getTargets=async ()=>{
     return [
         {name: "New Relic", "domain": "newrelic.com"},
         {name: "Terraform", "domain": "www.terraform.io"},
-         {name: "Google", "domain": "www.google.com"},
+        {name: "Google", "domain": "www.google.com"},
+        {name: "Github", "domain": "www.github.com"},
         {name: "Developer NR ", "domain": "developer.newrelic.com"},
     ]
 }
